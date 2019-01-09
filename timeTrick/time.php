@@ -11,4 +11,4 @@
     var_dump($timer);
 
     var_dump($timer1);
-    swoole_timer_clear($timer);
+//    swoole_timer_clear($timer);
